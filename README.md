@@ -47,5 +47,3 @@ Soy un desarrollador en formación con interés en múltiples tecnologías y len
 - **Perfil**: [Visitar mi perfil](https://github.com/LuisMiranda0)
 
 ---
-
-*Este README fue generado automáticamente basado en la actividad de GitHub.*
